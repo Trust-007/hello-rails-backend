@@ -30,6 +30,8 @@
 
 > An api that provides random welcome messages to the front-end
 
+[LINK TO REACT FRONT END](https://github.com/Trust-007/hello-react-frontend/)
+
 ### Key Features <a name="key-features"></a>
 
 - Fetch greetings from rails API
